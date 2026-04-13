@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>StationeryAtlas - Every pen, notebook, and planner compared</title>
+<meta name="description" content="A curated database of pens, notebooks, planners, and stationery supplies. Compare specs, find hidden Japanese gems, and discover your next favorite tool.">
+<meta property="og:title" content="StationeryAtlas - Curated Stationery Database">
+<meta property="og:description" content="Every pen, notebook, and planner — compared and curated. 50+ products from 26 brands across Japan, Germany, and France.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://humancronadmin.github.io/stationery-atlas/">
+<link rel="canonical" href="https://humancronadmin.github.io/stationery-atlas/">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<nav class="nav">
+  <a href="index.html" class="nav-brand">Stationery<span>Atlas</span></a>
+  <div class="nav-links">
+    <a href="database.html">Database</a>
+    <a href="#guides">Guides</a>
+    <a href="#about">About</a>
+  </div>
+</nav>
+
+<section class="hero">
+  <h1>Every pen, notebook, and planner — compared and curated.</h1>
+  <p>Stop drowning in reviews. StationeryAtlas gives you specs, pros, cons, and where to buy — all in one place.</p>
+  <a href="database.html" class="btn btn-primary">Browse the Database</a>
+</section>
+
+<section class="section">
+  <h2 class="section-title">The stationery search problem</h2>
+  <div class="card-grid" id="problems"></div>
+</section>
+
+<div class="stats" id="stats"></div>
+
+<section class="section" id="guides">
+  <h2 class="section-title">How it works</h2>
+  <div class="steps" id="steps"></div>
+</section>
+
+<section class="cta">
+  <h2>Find your next favorite tool</h2>
+  <p>50+ products from 26 brands. Filtered by category, country, price, and tip size.</p>
+  <a href="database.html" class="btn btn-primary">Explore the Database</a>
+</section>
+
+<section class="section" id="about">
+  <h2 class="section-title">About StationeryAtlas</h2>
+  <p style="text-align:center;color:var(--muted);max-width:600px;margin:0 auto">
+    Built for stationery enthusiasts who want real comparisons, not affiliate fluff.
+    We catalog pens, notebooks, planners, and supplies from Japan, Germany, France, and beyond —
+    with honest specs and curated recommendations.
+  </p>
+</section>
+
+<footer class="footer">
+  <p>&copy; 2026 StationeryAtlas. Built by <a href="https://github.com/humancronadmin" target="_blank" rel="noopener">humancronadmin</a>.</p>
+</footer>
+
+<script>
+const problems=[
+  {icon:"🤯",title:"Too many choices",desc:"Hundreds of pens and notebooks with no easy way to compare them side by side."},
+  {icon:"📊",title:"Reviews don't compare specs",desc:"Blog posts tell you what the reviewer likes, but rarely line up tip sizes, weights, or paper GSM."},
+  {icon:"🇯🇵",title:"Japanese gems are hidden",desc:"Some of the best stationery on Earth is made in Japan — but finding reliable info in English is hard."}
+];
+const stats=[
+  {num:"50+",label:"Products"},
+  {num:"26",label:"Brands"},
+  {num:"9",label:"Categories"},
+  {num:"4",label:"Countries"}
+];
+const steps=[
+  {title:"Filter",desc:"Narrow by category, country, price, or tip size."},
+  {title:"Compare",desc:"See specs, pros, cons, and best-for tags at a glance."},
+  {title:"Buy",desc:"Find where to purchase — from Amazon to specialty shops in Ginza."}
+];
+document.getElementById("problems").innerHTML=problems.map(p=>`<div class="card"><div class="card-icon">${p.icon}</div><h3>${p.title}</h3><p>${p.desc}</p></div>`).join("");
+document.getElementById("stats").innerHTML=stats.map(s=>`<div><div class="stat-num">${s.num}</div><div class="stat-label">${s.label}</div></div>`).join("");
+document.getElementById("steps").innerHTML=steps.map(s=>`<div class="step"><h3>${s.title}</h3><p>${s.desc}</p></div>`).join("");
+</script>
+</body>
+</html>

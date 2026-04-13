@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Database - StationeryAtlas</title>
+<meta name="description" content="Browse and filter 50+ pens, notebooks, planners, and stationery supplies. Compare specs, prices, and find where to buy.">
+<meta property="og:title" content="Stationery Database - StationeryAtlas">
+<meta property="og:description" content="Filter and compare 50+ curated pens, notebooks, and planners by category, country, price, and tip size.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://humancronadmin.github.io/stationery-atlas/database.html">
+<link rel="canonical" href="https://humancronadmin.github.io/stationery-atlas/database.html">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<nav class="nav">
+  <a href="index.html" class="nav-brand">Stationery<span>Atlas</span></a>
+  <div class="nav-links">
+    <a href="database.html" class="active">Database</a>
+    <a href="index.html#guides">Guides</a>
+    <a href="index.html#about">About</a>
+  </div>
+</nav>
+
+<section class="section" style="padding-bottom:0">
+  <h1 class="section-title">Stationery Database</h1>
+</section>
+
+<div class="filters">
+  <select id="filterCategory" aria-label="Filter by category">
+    <option value="">All Categories</option>
+    <option value="fountain-pen">Fountain Pen</option>
+    <option value="ballpoint">Ballpoint</option>
+    <option value="gel-pen">Gel Pen</option>
+    <option value="mechanical-pencil">Mechanical Pencil</option>
+    <option value="notebook">Notebook</option>
+    <option value="planner">Planner</option>
+    <option value="washi-tape">Washi Tape</option>
+    <option value="marker">Marker</option>
+  </select>
+  <select id="filterCountry" aria-label="Filter by country">
+    <option value="">All Countries</option>
+    <option value="japan">Japan</option>
+    <option value="germany">Germany</option>
+    <option value="france">France</option>
+    <option value="other">Other</option>
+  </select>
+  <select id="sortBy" aria-label="Sort by">
+    <option value="">Sort by...</option>
+    <option value="price-asc">Price: Low to High</option>
+    <option value="price-desc">Price: High to Low</option>
+    <option value="tip-asc">Tip Size: Small to Large</option>
+    <option value="tip-desc">Tip Size: Large to Small</option>
+  </select>
+  <input type="search" id="searchBox" placeholder="Search name, brand, best for..." aria-label="Search products">
+</div>
+
+<div class="product-count" id="productCount"></div>
+<div class="product-grid" id="productGrid"></div>
+
+<footer class="footer" style="margin-top:40px">
+  <p>&copy; 2026 StationeryAtlas. Built by <a href="https://github.com/humancronadmin" target="_blank" rel="noopener">humancronadmin</a>.</p>
+</footer>
+
+<script src="js/database.js"></script>
+</body>
+</html>
