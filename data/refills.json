@@ -1,0 +1,842 @@
+[
+  {
+    "id": "uni-sxr-80-05",
+    "model_number": "SXR-80-05",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDI",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-brfn-10",
+    "model_number": "BRFN-10",
+    "brand": "Pilot",
+    "ink_type": "water-based",
+    "tip_size_mm": 0.3,
+    "ink_color": "blue",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK6",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-jsb-05",
+    "model_number": "JSB-05",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDW",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-xlrn-05",
+    "model_number": "XLRN-05",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK4",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "uni-sxr-80-10",
+    "model_number": "SXR-80-10",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 1.0,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDK",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-bvrf-05",
+    "model_number": "BVRF-05",
+    "brand": "Pilot",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "ink_color": "black",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK8",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-br-05",
+    "model_number": "BR-05",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDX",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-bkl-05",
+    "model_number": "BKL-05",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK2",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "uni-sxr-80-20",
+    "model_number": "SXR-80-20",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.2,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDM",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-brfn-20",
+    "model_number": "BRFN-20",
+    "brand": "Pilot",
+    "ink_type": "water-based",
+    "tip_size_mm": 0.5,
+    "ink_color": "blue",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK5",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-jsb-10",
+    "model_number": "JSB-10",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 1.0,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDV",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-xlrn-10",
+    "model_number": "XLRN-10",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 1.0,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK3",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "uni-sxr-80-30",
+    "model_number": "SXR-80-30",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.3,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDL",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-bvrf-10",
+    "model_number": "BVRF-10",
+    "brand": "Pilot",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 1.0,
+    "ink_color": "black",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK9",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-br-10",
+    "model_number": "BR-10",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 1.0,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDZ",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-bkl-10",
+    "model_number": "BKL-10",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 1.0,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK1",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "uni-sxr-80-40",
+    "model_number": "SXR-80-40",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.4,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDN",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-brfn-30",
+    "model_number": "BRFN-30",
+    "brand": "Pilot",
+    "ink_type": "water-based",
+    "tip_size_mm": 0.3,
+    "ink_color": "blue",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK7",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-jsb-20",
+    "model_number": "JSB-20",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.2,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDW",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-xlrn-20",
+    "model_number": "XLRN-20",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.2,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK0",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "uni-sxr-80-50",
+    "model_number": "SXR-80-50",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "ink_color": "red",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDI",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-bvrf-20",
+    "model_number": "BVRF-20",
+    "brand": "Pilot",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.2,
+    "ink_color": "black",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVKA",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-br-20",
+    "model_number": "BR-20",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.2,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDQ",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-bkl-20",
+    "model_number": "BKL-20",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.2,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVJZ",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "uni-sxr-80-60",
+    "model_number": "SXR-80-60",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.6,
+    "ink_color": "blue",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDH",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-brfn-40",
+    "model_number": "BRFN-40",
+    "brand": "Pilot",
+    "ink_type": "water-based",
+    "tip_size_mm": 0.4,
+    "ink_color": "blue",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK6",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-jsb-30",
+    "model_number": "JSB-30",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.3,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDV",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-xlrn-30",
+    "model_number": "XLRN-30",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.3,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVJY",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "uni-sxr-80-70",
+    "model_number": "SXR-80-70",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.7,
+    "ink_color": "red",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDJ",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-bvrf-30",
+    "model_number": "BVRF-30",
+    "brand": "Pilot",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.3,
+    "ink_color": "black",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVJX",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-br-30",
+    "model_number": "BR-30",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.3,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDQ",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-bkl-30",
+    "model_number": "BKL-30",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.3,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVJW",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "uni-sxr-80-80",
+    "model_number": "SXR-80-80",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.8,
+    "ink_color": "blue",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDK",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-brfn-50",
+    "model_number": "BRFN-50",
+    "brand": "Pilot",
+    "ink_type": "water-based",
+    "tip_size_mm": 0.5,
+    "ink_color": "blue",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVK5",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-jsb-40",
+    "model_number": "JSB-40",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.4,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDW",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-xlrn-40",
+    "model_number": "XLRN-40",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.4,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVJZ",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "uni-sxr-80-90",
+    "model_number": "SXR-80-90",
+    "brand": "Uni",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.9,
+    "ink_color": "red",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Jetstream SXN-150",
+      "Jetstream SXN-1000"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDI",
+    "description": "Water-resistant, quick-drying ink"
+  },
+  {
+    "id": "pilot-bvrf-40",
+    "model_number": "BVRF-40",
+    "brand": "Pilot",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.4,
+    "ink_color": "black",
+    "length_mm": 95.0,
+    "diameter_mm": 2.5,
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "compatible_pens": [
+      "Pilot G2",
+      "Pilot Better"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVKA",
+    "description": "Smooth writing, vibrant ink colors"
+  },
+  {
+    "id": "zebra-br-40",
+    "model_number": "BR-40",
+    "brand": "Zebra",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.4,
+    "ink_color": "black",
+    "length_mm": 100.0,
+    "diameter_mm": 2.3,
+    "price_usd": 2.25,
+    "price_jpy": 250,
+    "compatible_pens": [
+      "Zebra Sarasa",
+      "Zebra Z-Grip"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B00006IVDQ",
+    "description": "Quick-drying, water-resistant ink"
+  },
+  {
+    "id": "pentel-bkl-40",
+    "model_number": "BKL-40",
+    "brand": "Pentel",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.4,
+    "ink_color": "black",
+    "length_mm": 98.0,
+    "diameter_mm": 2.35,
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "compatible_pens": [
+      "Pentel EnerGel",
+      "Pentel Vicuna"
+    ],
+    "cross_compatible": [
+      "Parker-style G2"
+    ],
+    "amazon_asin": "B004P2RVJY",
+    "description": "Smooth writing, vibrant ink colors"
+  }
+]

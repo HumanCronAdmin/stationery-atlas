@@ -1,0 +1,994 @@
+[
+  {
+    "id": "uni-ball-one-0.5",
+    "name": "Uni-ball One",
+    "brand": "Uni",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 10.5,
+    "weight_g": 10,
+    "refill_model": "UM-151",
+    "price_usd": 2.5,
+    "price_jpy": 280,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "The world's first retractable ballpoint pen with a 0.5mm tip and ultra-smooth ink flow.",
+    "pros": [
+      "Smooth writing",
+      "Affordable",
+      "Reliable refills"
+    ],
+    "cons": [
+      "Plastic body feels cheap",
+      "No grip texture"
+    ],
+    "best_for": "everyday-writing",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "uni-ball-pen-man-0.7",
+    "name": "Uni-ball Pen Man",
+    "brand": "Uni",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 12,
+    "refill_model": "UM-152",
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A classic ballpoint with a comfortable grip and quick-drying ink for left-handed writers.",
+    "pros": [
+      "Quick-drying ink",
+      "Ergonomic grip",
+      "Durable"
+    ],
+    "cons": [
+      "Plastic construction",
+      "Limited color options"
+    ],
+    "best_for": "note-taking",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "uni-ball-jetstream-0.7",
+    "name": "Uni-ball Jetstream",
+    "brand": "Uni",
+    "category": "ballpoint",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.5,
+    "weight_g": 15,
+    "refill_model": "UM-153",
+    "price_usd": 4.5,
+    "price_jpy": 500,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A premium ballpoint with hybrid ink that writes like a gel pen but dries instantly.",
+    "pros": [
+      "Hybrid ink technology",
+      "Smooth writing",
+      "Left-hand friendly"
+    ],
+    "cons": [
+      "Expensive refills",
+      "Plastic body"
+    ],
+    "best_for": "long-sessions",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "uni-ball-eye-0.5",
+    "name": "Uni-ball Eye",
+    "brand": "Uni",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.5,
+    "body_material": "metal",
+    "grip_diameter_mm": 10.0,
+    "weight_g": 20,
+    "refill_model": "UM-151",
+    "price_usd": 12.0,
+    "price_jpy": 1320,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A sleek metal-bodied ballpoint with a smooth writing experience and premium feel.",
+    "pros": [
+      "Metal construction",
+      "Sleek design",
+      "Smooth ink flow"
+    ],
+    "cons": [
+      "Expensive",
+      "Heavy for some users"
+    ],
+    "best_for": "everyday-writing",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "uni-ball-sigma-0.7",
+    "name": "Uni-ball Sigma",
+    "brand": "Uni",
+    "category": "ballpoint",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 12.0,
+    "weight_g": 14,
+    "refill_model": "UM-153",
+    "price_usd": 8.0,
+    "price_jpy": 880,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A high-performance ballpoint with a thick barrel and hybrid ink for effortless writing.",
+    "pros": [
+      "Hybrid ink",
+      "Ergonomic grip",
+      "Affordable premium feel"
+    ],
+    "cons": [
+      "Plastic body",
+      "Limited color options"
+    ],
+    "best_for": "long-sessions",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pilot-acroball-0.7",
+    "name": "Pilot Acroball",
+    "brand": "Pilot",
+    "category": "ballpoint",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 13,
+    "refill_model": "BPS-GP7",
+    "price_usd": 5.0,
+    "price_jpy": 550,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A versatile ballpoint with hybrid ink that combines the feel of a gel pen with ballpoint durability.",
+    "pros": [
+      "Hybrid ink technology",
+      "Smooth writing",
+      "Affordable"
+    ],
+    "cons": [
+      "Plastic body",
+      "Ink can skip if pressed too hard"
+    ],
+    "best_for": "everyday-writing",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pilot-dr-grip-0.5",
+    "name": "Pilot Dr. Grip",
+    "brand": "Pilot",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.5,
+    "body_material": "rubber-grip",
+    "grip_diameter_mm": 12.5,
+    "weight_g": 18,
+    "refill_model": "BP-GP5",
+    "price_usd": 10.0,
+    "price_jpy": 1100,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A comfortable ergonomic ballpoint with a soft rubber grip and smooth oil-based ink.",
+    "pros": [
+      "Ergonomic design",
+      "Comfortable grip",
+      "Reliable ink flow"
+    ],
+    "cons": [
+      "Rubber grip can wear over time",
+      "Slightly heavy"
+    ],
+    "best_for": "long-sessions",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pilot-metropolitan-0.7",
+    "name": "Pilot Metropolitan",
+    "brand": "Pilot",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.7,
+    "body_material": "metal",
+    "grip_diameter_mm": 10.5,
+    "weight_g": 22,
+    "refill_model": "BP-100",
+    "price_usd": 15.0,
+    "price_jpy": 1650,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A stylish metal-bodied ballpoint with a classic design and smooth writing experience.",
+    "pros": [
+      "Metal construction",
+      "Sleek design",
+      "Smooth ink flow"
+    ],
+    "cons": [
+      "Expensive",
+      "No grip texture"
+    ],
+    "best_for": "signatures",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pilot-friXion-ball-0.7",
+    "name": "Pilot FriXion Ball",
+    "brand": "Pilot",
+    "category": "ballpoint",
+    "ink_type": "erasable",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 12,
+    "refill_model": "BPS-FR7",
+    "price_usd": 4.0,
+    "price_jpy": 440,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A unique erasable ballpoint pen with thermosensitive ink that can be erased with friction.",
+    "pros": [
+      "Erasable ink",
+      "Affordable",
+      "Smooth writing"
+    ],
+    "cons": [
+      "Ink fades over time",
+      "Not archival"
+    ],
+    "best_for": "note-taking",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pilot-super-grip-0.5",
+    "name": "Pilot Super Grip",
+    "brand": "Pilot",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.5,
+    "body_material": "rubber-grip",
+    "grip_diameter_mm": 13.0,
+    "weight_g": 20,
+    "refill_model": "BP-GP1",
+    "price_usd": 8.0,
+    "price_jpy": 880,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A budget-friendly ergonomic ballpoint with a thick rubber grip for comfortable writing.",
+    "pros": [
+      "Affordable",
+      "Comfortable grip",
+      "Reliable ink flow"
+    ],
+    "cons": [
+      "Rubber grip can wear",
+      "Plastic body"
+    ],
+    "best_for": "long-sessions",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "zebra-sarasa-0.5",
+    "name": "Zebra Sarasa",
+    "brand": "Zebra",
+    "category": "ballpoint",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 11,
+    "refill_model": "ZS-500",
+    "price_usd": 4.0,
+    "price_jpy": 440,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A smooth-writing ballpoint with hybrid ink and a comfortable grip for extended use.",
+    "pros": [
+      "Hybrid ink technology",
+      "Affordable",
+      "Comfortable grip"
+    ],
+    "cons": [
+      "Plastic body",
+      "Ink can skip if not stored properly"
+    ],
+    "best_for": "everyday-writing",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "zebra-blen-0.7",
+    "name": "Zebra bLen",
+    "brand": "Zebra",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 10.5,
+    "weight_g": 10,
+    "refill_model": "ZS-300",
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A slim and lightweight ballpoint with a comfortable grip and reliable ink flow.",
+    "pros": [
+      "Lightweight",
+      "Affordable",
+      "Reliable ink flow"
+    ],
+    "cons": [
+      "Plastic body",
+      "No grip texture"
+    ],
+    "best_for": "note-taking",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "zebra-sarasa-clip-0.7",
+    "name": "Zebra Sarasa Clip",
+    "brand": "Zebra",
+    "category": "ballpoint",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.5,
+    "weight_g": 12,
+    "refill_model": "ZS-500",
+    "price_usd": 4.5,
+    "price_jpy": 495,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A sleek ballpoint with a hybrid ink formula and a convenient clip for easy carrying.",
+    "pros": [
+      "Hybrid ink",
+      "Sleek design",
+      "Affordable"
+    ],
+    "cons": [
+      "Plastic body",
+      "Ink can skip if pressed too hard"
+    ],
+    "best_for": "everyday-writing",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "zebra-sarasa-dry-0.5",
+    "name": "Zebra Sarasa Dry",
+    "brand": "Zebra",
+    "category": "ballpoint",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 11,
+    "refill_model": "ZS-500",
+    "price_usd": 5.0,
+    "price_jpy": 550,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A quick-drying ballpoint with hybrid ink, ideal for left-handed writers.",
+    "pros": [
+      "Quick-drying ink",
+      "Hybrid technology",
+      "Affordable"
+    ],
+    "cons": [
+      "Plastic body",
+      "Limited color options"
+    ],
+    "best_for": "note-taking",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "zebra-sarasa-gel-0.5",
+    "name": "Zebra Sarasa Gel",
+    "brand": "Zebra",
+    "category": "ballpoint",
+    "ink_type": "gel",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 11,
+    "refill_model": "ZS-GP",
+    "price_usd": 4.5,
+    "price_jpy": 495,
+    "left_hand_friendly": false,
+    "amazon_asin": "",
+    "description": "A gel ballpoint with a smooth writing experience and vibrant ink colors.",
+    "pros": [
+      "Smooth gel ink",
+      "Vibrant colors",
+      "Affordable"
+    ],
+    "cons": [
+      "Not left-hand friendly",
+      "Ink can smudge"
+    ],
+    "best_for": "art",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pentel-energel-0.5",
+    "name": "Pentel EnerGel",
+    "brand": "Pentel",
+    "category": "ballpoint",
+    "ink_type": "gel",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 10.5,
+    "weight_g": 12,
+    "refill_model": "EG-100",
+    "price_usd": 3.5,
+    "price_jpy": 385,
+    "left_hand_friendly": false,
+    "amazon_asin": "",
+    "description": "A popular gel ballpoint with a smooth writing experience and vibrant ink colors.",
+    "pros": [
+      "Smooth gel ink",
+      "Affordable",
+      "Vibrant colors"
+    ],
+    "cons": [
+      "Not left-hand friendly",
+      "Ink can smudge"
+    ],
+    "best_for": "art",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pentel-calme-0.7",
+    "name": "Pentel Calme",
+    "brand": "Pentel",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.7,
+    "body_material": "rubber-grip",
+    "grip_diameter_mm": 12.5,
+    "weight_g": 18,
+    "refill_model": "BP-GP5",
+    "price_usd": 9.0,
+    "price_jpy": 990,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A comfortable ergonomic ballpoint with a soft rubber grip and smooth oil-based ink.",
+    "pros": [
+      "Ergonomic design",
+      "Comfortable grip",
+      "Reliable ink flow"
+    ],
+    "cons": [
+      "Rubber grip can wear over time",
+      "Slightly heavy"
+    ],
+    "best_for": "long-sessions",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pentel-hybrid-0.5",
+    "name": "Pentel Hybrid",
+    "brand": "Pentel",
+    "category": "ballpoint",
+    "ink_type": "low-viscosity-oil",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 13,
+    "refill_model": "BP-GP7",
+    "price_usd": 6.0,
+    "price_jpy": 660,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A hybrid ballpoint with oil-based ink that writes like a gel pen but dries instantly.",
+    "pros": [
+      "Hybrid ink technology",
+      "Smooth writing",
+      "Left-hand friendly"
+    ],
+    "cons": [
+      "Plastic body",
+      "Ink can skip if pressed too hard"
+    ],
+    "best_for": "long-sessions",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pentel-ohashigari-0.7",
+    "name": "Pentel Ohashigari",
+    "brand": "Pentel",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 10.5,
+    "weight_g": 10,
+    "refill_model": "BP-GP1",
+    "price_usd": 2.5,
+    "price_jpy": 275,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A budget-friendly ballpoint with a smooth writing experience and reliable ink flow.",
+    "pros": [
+      "Affordable",
+      "Reliable ink flow",
+      "Lightweight"
+    ],
+    "cons": [
+      "Plastic body",
+      "No grip texture"
+    ],
+    "best_for": "note-taking",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "pentel-kyo-no-mise-0.5",
+    "name": "Pentel Kyo no Mise",
+    "brand": "Pentel",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.5,
+    "body_material": "metal",
+    "grip_diameter_mm": 10.0,
+    "weight_g": 20,
+    "refill_model": "UM-151",
+    "price_usd": 18.0,
+    "price_jpy": 1980,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A premium metal-bodied ballpoint with a smooth writing experience and elegant design.",
+    "pros": [
+      "Metal construction",
+      "Sleek design",
+      "Smooth ink flow"
+    ],
+    "cons": [
+      "Expensive",
+      "Heavy for some users"
+    ],
+    "best_for": "signatures",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-light-0.5",
+    "name": "Tombow Mono Graph Light",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 10.5,
+    "weight_g": 10,
+    "refill_model": "UM-151",
+    "price_usd": 3.0,
+    "price_jpy": 330,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A lightweight and affordable ballpoint with a smooth writing experience.",
+    "pros": [
+      "Lightweight",
+      "Affordable",
+      "Reliable ink flow"
+    ],
+    "cons": [
+      "Plastic body",
+      "No grip texture"
+    ],
+    "best_for": "note-taking",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-0.38",
+    "name": "Tombow Mono Graph",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.38,
+    "body_material": "plastic",
+    "grip_diameter_mm": 10.0,
+    "weight_g": 9,
+    "refill_model": "UM-151",
+    "price_usd": 4.0,
+    "price_jpy": 440,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A fine-tip ballpoint with a 0.38mm tip for precise writing and detailed work.",
+    "pros": [
+      "Fine tip for detail",
+      "Affordable",
+      "Reliable ink flow"
+    ],
+    "cons": [
+      "Plastic body",
+      "Tip can wear quickly"
+    ],
+    "best_for": "art",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-rt-0.5",
+    "name": "Tombow Mono Graph RT",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 12,
+    "refill_model": "UM-151",
+    "price_usd": 5.0,
+    "price_jpy": 550,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A retractable version of the classic Mono Graph with a comfortable grip.",
+    "pros": [
+      "Retractable tip",
+      "Comfortable grip",
+      "Affordable"
+    ],
+    "cons": [
+      "Plastic body",
+      "No grip texture"
+    ],
+    "best_for": "everyday-writing",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-metal-0.5",
+    "name": "Tombow Mono Graph Metal",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.5,
+    "body_material": "metal",
+    "grip_diameter_mm": 10.0,
+    "weight_g": 20,
+    "refill_model": "UM-151",
+    "price_usd": 15.0,
+    "price_jpy": 1650,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A premium metal-bodied ballpoint with a smooth writing experience and elegant design.",
+    "pros": [
+      "Metal construction",
+      "Sleek design",
+      "Smooth ink flow"
+    ],
+    "cons": [
+      "Expensive",
+      "Heavy for some users"
+    ],
+    "best_for": "signatures",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-gel-0.5",
+    "name": "Tombow Mono Graph Gel",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "gel",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 10.5,
+    "weight_g": 11,
+    "refill_model": "EG-100",
+    "price_usd": 4.5,
+    "price_jpy": 495,
+    "left_hand_friendly": false,
+    "amazon_asin": "",
+    "description": "A gel ballpoint with a smooth writing experience and vibrant ink colors.",
+    "pros": [
+      "Smooth gel ink",
+      "Vibrant colors",
+      "Affordable"
+    ],
+    "cons": [
+      "Not left-hand friendly",
+      "Ink can smudge"
+    ],
+    "best_for": "art",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-rt-gel-0.5",
+    "name": "Tombow Mono Graph RT Gel",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "gel",
+    "tip_size_mm": 0.5,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 12,
+    "refill_model": "EG-100",
+    "price_usd": 6.0,
+    "price_jpy": 660,
+    "left_hand_friendly": false,
+    "amazon_asin": "",
+    "description": "A retractable gel ballpoint with a comfortable grip and vibrant ink colors.",
+    "pros": [
+      "Retractable tip",
+      "Smooth gel ink",
+      "Vibrant colors"
+    ],
+    "cons": [
+      "Not left-hand friendly",
+      "Ink can smudge"
+    ],
+    "best_for": "art",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-zero-0.3",
+    "name": "Tombow Mono Zero",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.3,
+    "body_material": "plastic",
+    "grip_diameter_mm": 9.5,
+    "weight_g": 8,
+    "refill_model": "UM-151",
+    "price_usd": 5.0,
+    "price_jpy": 550,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "An ultra-fine ballpoint with a 0.3mm tip for precise writing and detailed work.",
+    "pros": [
+      "Ultra-fine tip",
+      "Affordable",
+      "Reliable ink flow"
+    ],
+    "cons": [
+      "Plastic body",
+      "Tip can wear quickly"
+    ],
+    "best_for": "art",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-rt-0.7",
+    "name": "Tombow Mono Graph RT 0.7",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 12,
+    "refill_model": "UM-152",
+    "price_usd": 5.0,
+    "price_jpy": 550,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A retractable ballpoint with a 0.7mm tip for bold writing and note-taking.",
+    "pros": [
+      "Retractable tip",
+      "Bold writing",
+      "Affordable"
+    ],
+    "cons": [
+      "Plastic body",
+      "No grip texture"
+    ],
+    "best_for": "note-taking",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-rt-metal-0.5",
+    "name": "Tombow Mono Graph RT Metal",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.5,
+    "body_material": "metal",
+    "grip_diameter_mm": 10.0,
+    "weight_g": 20,
+    "refill_model": "UM-151",
+    "price_usd": 18.0,
+    "price_jpy": 1980,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A premium retractable metal ballpoint with a smooth writing experience and elegant design.",
+    "pros": [
+      "Metal construction",
+      "Retractable tip",
+      "Sleek design"
+    ],
+    "cons": [
+      "Expensive",
+      "Heavy for some users"
+    ],
+    "best_for": "signatures",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-rt-gel-0.7",
+    "name": "Tombow Mono Graph RT Gel 0.7",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "gel",
+    "tip_size_mm": 0.7,
+    "body_material": "plastic",
+    "grip_diameter_mm": 11.0,
+    "weight_g": 12,
+    "refill_model": "EG-100",
+    "price_usd": 6.0,
+    "price_jpy": 660,
+    "left_hand_friendly": false,
+    "amazon_asin": "",
+    "description": "A retractable gel ballpoint with a 0.7mm tip for bold writing and vibrant colors.",
+    "pros": [
+      "Retractable tip",
+      "Bold writing",
+      "Vibrant colors"
+    ],
+    "cons": [
+      "Not left-hand friendly",
+      "Ink can smudge"
+    ],
+    "best_for": "art",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  },
+  {
+    "id": "tombow-mono-graph-rt-0.4",
+    "name": "Tombow Mono Graph RT 0.4",
+    "brand": "Tombow",
+    "category": "ballpoint",
+    "ink_type": "oil-based",
+    "tip_size_mm": 0.4,
+    "body_material": "plastic",
+    "grip_diameter_mm": 10.5,
+    "weight_g": 11,
+    "refill_model": "UM-151",
+    "price_usd": 5.0,
+    "price_jpy": 550,
+    "left_hand_friendly": true,
+    "amazon_asin": "",
+    "description": "A fine-tip retractable ballpoint with a 0.4mm tip for precise writing.",
+    "pros": [
+      "Fine tip for detail",
+      "Retractable tip",
+      "Affordable"
+    ],
+    "cons": [
+      "Plastic body",
+      "Tip can wear quickly"
+    ],
+    "best_for": "art",
+    "where_to_buy": [
+      "Amazon",
+      "JetPens",
+      "Itoya"
+    ]
+  }
+]
